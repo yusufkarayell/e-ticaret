@@ -1,0 +1,67 @@
+[
+
+    {
+        "id": 1,
+        "name": "Kedi Oltası",
+        "price": {
+            "oldPrice": 200.00,
+            "newPrice": 120.00
+        },
+        "discount": 33,
+        "img": {
+            "singleImage": "img/products/product4/kedioltası.jpg",
+            "thumbs": [
+             
+            ]
+        }
+    },
+    {
+        "id": 2,
+        "name": "Hasır Top",
+        "price": {
+            "oldPrice": 165.00,
+            "newPrice": 38.00
+        },
+        "discount": 90,
+        "img": {
+            "singleImage": "img/products/top1.jpg",
+            "thumbs": [
+             
+            ]
+        }
+    },
+    {
+        "id": 3,
+        "name": "Kuş Oyuncağı",
+        "price": {
+            "oldPrice": 165.00,
+            "newPrice": 48.00
+        },
+        "discount": 40,
+        "img": {
+            "singleImage": "img/products/kuşoyuncağı1.jpg",
+            "thumbs": [
+                "img/products/kuşoyuncağı2.jpg"
+            ]
+        }
+    },
+    {
+        "id": 4,
+        "name": "Kedi Kostümü",
+        "price": {
+            "oldPrice": 480.00,
+            "newPrice": 288.00
+        },
+        "discount": 40,
+        "img": {
+            "singleImage": "img/products/kostüm1.jpg",
+            "thumbs": [
+                "img/products/kostüm2.jpg",
+                "img/products/kedichristmas.jpg",
+                "img/products/kedichristmas2.jpg"
+            ]
+        }
+    }
+    
+        
+]
